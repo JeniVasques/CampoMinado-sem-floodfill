@@ -1,2 +1,2 @@
-# CampoMinado-sem-floodfill
-Campo Minado usando apenas matrizes e sem o algoritmo floodfill
+# CampoMinado usadndo matrizes
+Campo Minado usando apenas matrizes
